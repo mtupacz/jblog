@@ -32,3 +32,41 @@ title: blueprint-css
 
 	Grade: A
 	Score: 90
+	        
+	Szczegolowe wyniki:
+	
+	AMake fewer HTTP requests
+	*
+	DAdd Expires headers
+    	*
+        DCompress components with gzip
+    	*
+      	APut CSS at top
+    	*
+     	APut JavaScript at bottom
+    	*
+      	AAvoid CSS expressions
+    	*
+      	N/AMake JavaScript and CSS external
+    	*
+      	AReduce DNS lookups
+    	*
+      	AMinify JavaScript and CSS
+    	*
+      	AAvoid URL redirects
+    	*
+      	ARemove duplicate JavaScript and CSS
+    	*
+      	DConfigure entity tags (ETags)
+    	*
+      	AMake AJAX cacheable
+    	*
+      	AUse GET for AJAX requests
+    	*
+      	AReduce the number of DOM elements
+    	*
+      	AAvoid HTTP 404 (Not Found) error
+    	*
+      	AReduce cookie size
+    	*
+      	AUse cookie-free domains
